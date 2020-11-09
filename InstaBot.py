@@ -280,9 +280,9 @@ class InstaBot:
 
 
 # actions
-my_bot = InstaBot('prielhazan', 'priel2424')
+my_bot = InstaBot('username', 'passwords') #insert username and password
 # my_bot.get_unfollowers()
-# # comments = ['❤️יפה', '❤️חיימשלי', '❤️מושלמת', '❤️❤️']
+# # comments = ['nice', 'looks good', 'wow']
 # comments ["איזה יופי", 'מדהים']
 # hashtag = 'game'
 # my_bot.like_hashtag_or_url_photos(hashtag=hashtag, comments=comments)
